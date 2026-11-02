@@ -1,0 +1,6 @@
+﻿{
+    "terminal.integrated.env.windows":  {
+                                            "JAVA_HOME":  "D:\\NexStudio\\projetos\\multiverse collision\\.tools\\jdk17\\jdk-17.0.20.1+1"
+                                        },
+    "java.import.gradle.java.home":  "D:\\NexStudio\\projetos\\multiverse collision\\.tools\\jdk17\\jdk-17.0.20.1+1"
+}
